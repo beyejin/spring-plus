@@ -38,3 +38,9 @@ out/
 
 ### properties ###
 *.properties
+
+### agent ###
+.agent
+
+### yml (local config) ###
+*.yml
