@@ -40,7 +40,8 @@ out/
 *.properties
 
 ### agent ###
-.agent
+Agent.md
+CLAUDE.md
 
 ### yml (local config) ###
 *.yml
